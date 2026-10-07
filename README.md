@@ -2,6 +2,8 @@
 
 Official repository for **π² (P2I)**, accepted at **NeurIPS 2026**.
 
+[![Project Page](https://img.shields.io/badge/Project%20Page-76B900?style=for-the-badge)](https://dengh293.github.io/p2i-project-page/)
+
 [Paper](https://openreview.net/forum?id=vm3afPOLqE)
 
 ## Overview
